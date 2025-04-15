@@ -9,10 +9,10 @@ Paramy it grabs paramters in a website.
 
 ```bash
 # Using Go Install
-go install github.com/yourusername/paramy@latest
+go install github.com/h3bzzz/paramy@latest
 
 # Or build from source
-git clone https://github.com/yourusername/paramy.git
+git clone https://github.com/h3bzzz/paramy.git
 cd paramy
 go build
 ```
